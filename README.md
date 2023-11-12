@@ -1,2 +1,13 @@
 # influencer-calendar-booking
-all in one. let the universe get time on your calendar.
+
+Let your followers see your schedule, reserve a booking, and pay you with paypal all in the same screen.
+
+<img>
+
+lorem ipsum
+
+
+
+
+
+## Namaste.
